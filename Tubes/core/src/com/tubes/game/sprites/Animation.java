@@ -5,9 +5,7 @@ import com.badlogic.gdx.audio.Sound;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 import com.badlogic.gdx.utils.Array;
 
-/**
- * Created by brentaureli on 7/28/15.
- */
+
 public class Animation {
     private Array<TextureRegion> frames;
     private float maxFrameTime;
